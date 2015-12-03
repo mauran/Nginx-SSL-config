@@ -1,8 +1,7 @@
 # Nginx-SSL-config
 ![SSLlabs score 03/12/2015](https://github.com/mauran/Nginx-SSL-config/blob/master/proof.png?raw=true)
 
-
-Use at own risk. 
+Latest update: 03/12/2015. Use this at your own risk.
 
 ## Some resources
 
