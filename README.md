@@ -1,5 +1,5 @@
 # Nginx-SSL-config
-[logo]: https://i.imgur.com/TdKg7rf.png "Score from SSLLabs 03/12/2015"
+[logo]: https://github.com/mauran/Nginx-SSL-config/blob/master/proof.png?raw=true "Score from SSLLabs 03/12/2015"
 
 Use at own risk. 
 
